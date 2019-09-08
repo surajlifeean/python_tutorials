@@ -11,7 +11,7 @@ print("Hello",uname+".",)
 
 
 
-question=input("Woould you like to play a game(Y/N)?")
+question=input("Would you like to play a game(Y/N)?")
 
 if question == 'N' or question == 'n':
     print("Ok.. Bye")
